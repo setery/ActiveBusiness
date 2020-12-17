@@ -1,0 +1,28 @@
+﻿<Window x:Class="ActiveBusiness.Ventanas.winAgregarJugador"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ActiveBusiness.Ventanas"
+        mc:Ignorable="d"
+        Title="winAgregarJugador" Height="450" Width="800" WindowStyle="None" WindowStartupLocation="CenterScreen" WindowState="Maximized">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/Imagenes/fondo.png" Stretch="UniformToFill"></ImageBrush>
+        </Grid.Background>
+        <StackPanel HorizontalAlignment="Center" Height="277" Margin="153,34,155,131" VerticalAlignment="Center" Width="484">
+            <Label FontSize="24" FontWeight="Bold" Margin="10,0,0,0" Content="Seleccionar cantidad de jugadores" HorizontalAlignment="Left" VerticalAlignment="Top" Width="474" FontFamily="Segoe UI Black" Height="108"/>
+            <RadioButton x:Name="rdbDos" FontSize="18" FontWeight="DemiBold" Margin="140,0,0,0" Content=" 2 Jugadores" GroupName="CantidadJugadores" HorizontalAlignment="Left" VerticalAlignment="Top" Height="40" Width="201" Padding="4,-6,0,0" Checked="rdbDos_Checked"/>
+            <RadioButton x:Name="rdbTres" FontSize="18" FontWeight="DemiBold" Margin="140,0,0,0" Content=" 3 Jugadores" GroupName="CantidadJugadores" HorizontalAlignment="Left" VerticalAlignment="Top" Width="201" Height="40" Padding="4,-6,0,0" Checked="rdbTres_Checked"/>
+            <RadioButton x:Name="rdbCuatro" FontSize="18" FontWeight="DemiBold" Margin="140,0,0,0" Content=" 4 Jugadores" GroupName="CantidadJugadores" HorizontalAlignment="Left" VerticalAlignment="Top" Width="181" Padding="4,-6,0,0" Height="33" Checked="rdbCuatro_Checked"/>
+        </StackPanel>
+        <Button x:Name="btnAceptar" Content="Aceptar" HorizontalAlignment="Center" Margin="302,328,359,56" VerticalAlignment="Center" Width="131" Height="58" Background="#FF35ACFF" Foreground="#FF4D4D4D" FontSize="22" FontFamily="Segoe UI Black" BorderThickness="5" BorderBrush="#FF0080BB" Click="btnAceptar_Click">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="16"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+
+    </Grid>
+</Window>

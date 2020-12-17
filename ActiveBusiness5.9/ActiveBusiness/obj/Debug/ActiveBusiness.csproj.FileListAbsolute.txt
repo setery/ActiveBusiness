@@ -1,0 +1,138 @@
+C:\Users\Alvar\Documents\Universidad Mayor\Taller de lenguajes\ActiveBusiness\ActiveBusiness\bin\Debug\ActiveBusiness.exe.config
+C:\Users\Alvar\Documents\Universidad Mayor\Taller de lenguajes\ActiveBusiness\ActiveBusiness\bin\Debug\ActiveBusiness.exe
+C:\Users\Alvar\Documents\Universidad Mayor\Taller de lenguajes\ActiveBusiness\ActiveBusiness\bin\Debug\ActiveBusiness.pdb
+C:\Users\Alvar\Documents\Universidad Mayor\Taller de lenguajes\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness.csprojAssemblyReference.cache
+C:\Users\Alvar\Documents\Universidad Mayor\Taller de lenguajes\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winFinDelJuego.g.cs
+C:\Users\Alvar\Documents\Universidad Mayor\Taller de lenguajes\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winMenuInicio.g.cs
+C:\Users\Alvar\Documents\Universidad Mayor\Taller de lenguajes\ActiveBusiness\ActiveBusiness\obj\Debug\App.g.cs
+C:\Users\Alvar\Documents\Universidad Mayor\Taller de lenguajes\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness_MarkupCompile.cache
+C:\Users\Alvar\Documents\Universidad Mayor\Taller de lenguajes\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness_MarkupCompile.lref
+C:\Users\Alvar\Documents\Universidad Mayor\Taller de lenguajes\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winFinDelJuego.baml
+C:\Users\Alvar\Documents\Universidad Mayor\Taller de lenguajes\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winMenuInicio.baml
+C:\Users\Alvar\Documents\Universidad Mayor\Taller de lenguajes\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness.g.resources
+C:\Users\Alvar\Documents\Universidad Mayor\Taller de lenguajes\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness.Properties.Resources.resources
+C:\Users\Alvar\Documents\Universidad Mayor\Taller de lenguajes\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness.csproj.GenerateResource.cache
+C:\Users\Alvar\Documents\Universidad Mayor\Taller de lenguajes\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness.csproj.CoreCompileInputs.cache
+C:\Users\Alvar\Documents\Universidad Mayor\Taller de lenguajes\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness.exe
+C:\Users\Alvar\Documents\Universidad Mayor\Taller de lenguajes\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness.pdb
+C:\Users\Alvar\Documents\Universidad Mayor\Taller de lenguajes\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winAgregarJugador.g.cs
+C:\Users\Alvar\Documents\Universidad Mayor\Taller de lenguajes\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winAgregarJugador.baml
+C:\Users\Alvar\Documents\Universidad Mayor\Taller de lenguajes\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winNombreJugador.g.cs
+C:\Users\Alvar\Documents\Universidad Mayor\Taller de lenguajes\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winNombreJugador.baml
+C:\Users\Alvar\Documents\Universidad Mayor\Taller de lenguajes\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winActiveBusiness.g.cs
+C:\Users\Alvar\Documents\Universidad Mayor\Taller de lenguajes\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winActiveBusiness.baml
+C:\Users\sebi9\Desktop\2.5\ActiveBusiness\ActiveBusiness\bin\Debug\ActiveBusiness.exe.config
+C:\Users\sebi9\Desktop\2.5\ActiveBusiness\ActiveBusiness\bin\Debug\ActiveBusiness.exe
+C:\Users\sebi9\Desktop\2.5\ActiveBusiness\ActiveBusiness\bin\Debug\ActiveBusiness.pdb
+C:\Users\sebi9\Desktop\2.5\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness.csprojAssemblyReference.cache
+C:\Users\sebi9\Desktop\2.5\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winActiveBusiness.g.cs
+C:\Users\sebi9\Desktop\2.5\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winAgregarJugador.g.cs
+C:\Users\sebi9\Desktop\2.5\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winFinDelJuego.g.cs
+C:\Users\sebi9\Desktop\2.5\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winMenuInicio.g.cs
+C:\Users\sebi9\Desktop\2.5\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winNombreJugador.g.cs
+C:\Users\sebi9\Desktop\2.5\ActiveBusiness\ActiveBusiness\obj\Debug\App.g.cs
+C:\Users\sebi9\Desktop\2.5\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness_MarkupCompile.cache
+C:\Users\sebi9\Desktop\2.5\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness_MarkupCompile.lref
+C:\Users\sebi9\Desktop\2.5\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winActiveBusiness.baml
+C:\Users\sebi9\Desktop\2.5\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winAgregarJugador.baml
+C:\Users\sebi9\Desktop\2.5\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winFinDelJuego.baml
+C:\Users\sebi9\Desktop\2.5\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winMenuInicio.baml
+C:\Users\sebi9\Desktop\2.5\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winNombreJugador.baml
+C:\Users\sebi9\Desktop\2.5\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness.g.resources
+C:\Users\sebi9\Desktop\2.5\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness.Properties.Resources.resources
+C:\Users\sebi9\Desktop\2.5\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness.csproj.GenerateResource.cache
+C:\Users\sebi9\Desktop\2.5\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness.csproj.CoreCompileInputs.cache
+C:\Users\sebi9\Desktop\2.5\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness.exe
+C:\Users\sebi9\Desktop\2.5\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness.pdb
+C:\Users\sebi9\Desktop\3.9\ActiveBusiness\ActiveBusiness\bin\Debug\ActiveBusiness.exe.config
+C:\Users\sebi9\Desktop\3.9\ActiveBusiness\ActiveBusiness\bin\Debug\ActiveBusiness.exe
+C:\Users\sebi9\Desktop\3.9\ActiveBusiness\ActiveBusiness\bin\Debug\ActiveBusiness.pdb
+C:\Users\sebi9\Desktop\3.9\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness.csprojAssemblyReference.cache
+C:\Users\sebi9\Desktop\3.9\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winActiveBusiness.g.cs
+C:\Users\sebi9\Desktop\3.9\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winAgregarJugador.g.cs
+C:\Users\sebi9\Desktop\3.9\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winFinDelJuego.g.cs
+C:\Users\sebi9\Desktop\3.9\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winMenuInicio.g.cs
+C:\Users\sebi9\Desktop\3.9\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winNombreJugador.g.cs
+C:\Users\sebi9\Desktop\3.9\ActiveBusiness\ActiveBusiness\obj\Debug\App.g.cs
+C:\Users\sebi9\Desktop\3.9\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness_MarkupCompile.cache
+C:\Users\sebi9\Desktop\3.9\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness_MarkupCompile.lref
+C:\Users\sebi9\Desktop\3.9\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winActiveBusiness.baml
+C:\Users\sebi9\Desktop\3.9\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winAgregarJugador.baml
+C:\Users\sebi9\Desktop\3.9\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winFinDelJuego.baml
+C:\Users\sebi9\Desktop\3.9\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winMenuInicio.baml
+C:\Users\sebi9\Desktop\3.9\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winNombreJugador.baml
+C:\Users\sebi9\Desktop\3.9\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness.g.resources
+C:\Users\sebi9\Desktop\3.9\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness.Properties.Resources.resources
+C:\Users\sebi9\Desktop\3.9\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness.csproj.GenerateResource.cache
+C:\Users\sebi9\Desktop\3.9\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness.csproj.CoreCompileInputs.cache
+C:\Users\sebi9\Desktop\3.9\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness.exe
+C:\Users\sebi9\Desktop\3.9\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness.pdb
+C:\Users\sebi9\Desktop\taller de progra\4.1\ActiveBusiness\ActiveBusiness\bin\Debug\ActiveBusiness.exe.config
+C:\Users\sebi9\Desktop\taller de progra\4.1\ActiveBusiness\ActiveBusiness\bin\Debug\ActiveBusiness.exe
+C:\Users\sebi9\Desktop\taller de progra\4.1\ActiveBusiness\ActiveBusiness\bin\Debug\ActiveBusiness.pdb
+C:\Users\sebi9\Desktop\taller de progra\4.1\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness.csprojAssemblyReference.cache
+C:\Users\sebi9\Desktop\taller de progra\4.1\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winActiveBusiness.g.cs
+C:\Users\sebi9\Desktop\taller de progra\4.1\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winAgregarJugador.g.cs
+C:\Users\sebi9\Desktop\taller de progra\4.1\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winFinDelJuego.g.cs
+C:\Users\sebi9\Desktop\taller de progra\4.1\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winMenuInicio.g.cs
+C:\Users\sebi9\Desktop\taller de progra\4.1\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winNombreJugador.g.cs
+C:\Users\sebi9\Desktop\taller de progra\4.1\ActiveBusiness\ActiveBusiness\obj\Debug\App.g.cs
+C:\Users\sebi9\Desktop\taller de progra\4.1\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness_MarkupCompile.cache
+C:\Users\sebi9\Desktop\taller de progra\4.1\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness_MarkupCompile.lref
+C:\Users\sebi9\Desktop\taller de progra\4.1\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winActiveBusiness.baml
+C:\Users\sebi9\Desktop\taller de progra\4.1\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winAgregarJugador.baml
+C:\Users\sebi9\Desktop\taller de progra\4.1\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winFinDelJuego.baml
+C:\Users\sebi9\Desktop\taller de progra\4.1\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winMenuInicio.baml
+C:\Users\sebi9\Desktop\taller de progra\4.1\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winNombreJugador.baml
+C:\Users\sebi9\Desktop\taller de progra\4.1\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness.g.resources
+C:\Users\sebi9\Desktop\taller de progra\4.1\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness.Properties.Resources.resources
+C:\Users\sebi9\Desktop\taller de progra\4.1\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness.csproj.GenerateResource.cache
+C:\Users\sebi9\Desktop\taller de progra\4.1\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness.csproj.CoreCompileInputs.cache
+C:\Users\sebi9\Desktop\taller de progra\4.1\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness.exe
+C:\Users\sebi9\Desktop\taller de progra\4.1\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness.pdb
+C:\Users\sebi9\Desktop\taller de progra\4.9\ActiveBusiness\ActiveBusiness\bin\Debug\ActiveBusiness.exe.config
+C:\Users\sebi9\Desktop\taller de progra\4.9\ActiveBusiness\ActiveBusiness\bin\Debug\ActiveBusiness.exe
+C:\Users\sebi9\Desktop\taller de progra\4.9\ActiveBusiness\ActiveBusiness\bin\Debug\ActiveBusiness.pdb
+C:\Users\sebi9\Desktop\taller de progra\4.9\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness.csprojAssemblyReference.cache
+C:\Users\sebi9\Desktop\taller de progra\4.9\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winActiveBusiness.g.cs
+C:\Users\sebi9\Desktop\taller de progra\4.9\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winAgregarJugador.g.cs
+C:\Users\sebi9\Desktop\taller de progra\4.9\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winFinDelJuego.g.cs
+C:\Users\sebi9\Desktop\taller de progra\4.9\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winMenuInicio.g.cs
+C:\Users\sebi9\Desktop\taller de progra\4.9\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winNombreJugador.g.cs
+C:\Users\sebi9\Desktop\taller de progra\4.9\ActiveBusiness\ActiveBusiness\obj\Debug\App.g.cs
+C:\Users\sebi9\Desktop\taller de progra\4.9\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness_MarkupCompile.cache
+C:\Users\sebi9\Desktop\taller de progra\4.9\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness_MarkupCompile.lref
+C:\Users\sebi9\Desktop\taller de progra\4.9\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winActiveBusiness.baml
+C:\Users\sebi9\Desktop\taller de progra\4.9\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winAgregarJugador.baml
+C:\Users\sebi9\Desktop\taller de progra\4.9\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winFinDelJuego.baml
+C:\Users\sebi9\Desktop\taller de progra\4.9\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winMenuInicio.baml
+C:\Users\sebi9\Desktop\taller de progra\4.9\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winNombreJugador.baml
+C:\Users\sebi9\Desktop\taller de progra\4.9\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness.g.resources
+C:\Users\sebi9\Desktop\taller de progra\4.9\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness.Properties.Resources.resources
+C:\Users\sebi9\Desktop\taller de progra\4.9\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness.csproj.GenerateResource.cache
+C:\Users\sebi9\Desktop\taller de progra\4.9\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness.csproj.CoreCompileInputs.cache
+C:\Users\sebi9\Desktop\taller de progra\4.9\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness.exe
+C:\Users\sebi9\Desktop\taller de progra\4.9\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness.pdb
+C:\Users\sebi9\Desktop\Nueva carpeta\ActiveBusiness\ActiveBusiness\bin\Debug\ActiveBusiness.exe.config
+C:\Users\sebi9\Desktop\Nueva carpeta\ActiveBusiness\ActiveBusiness\bin\Debug\ActiveBusiness.exe
+C:\Users\sebi9\Desktop\Nueva carpeta\ActiveBusiness\ActiveBusiness\bin\Debug\ActiveBusiness.pdb
+C:\Users\sebi9\Desktop\Nueva carpeta\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness.csprojAssemblyReference.cache
+C:\Users\sebi9\Desktop\Nueva carpeta\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winActiveBusiness.g.cs
+C:\Users\sebi9\Desktop\Nueva carpeta\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winAgregarJugador.g.cs
+C:\Users\sebi9\Desktop\Nueva carpeta\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winFinDelJuego.g.cs
+C:\Users\sebi9\Desktop\Nueva carpeta\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winMenuInicio.g.cs
+C:\Users\sebi9\Desktop\Nueva carpeta\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winNombreJugador.g.cs
+C:\Users\sebi9\Desktop\Nueva carpeta\ActiveBusiness\ActiveBusiness\obj\Debug\App.g.cs
+C:\Users\sebi9\Desktop\Nueva carpeta\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness_MarkupCompile.cache
+C:\Users\sebi9\Desktop\Nueva carpeta\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness_MarkupCompile.lref
+C:\Users\sebi9\Desktop\Nueva carpeta\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winActiveBusiness.baml
+C:\Users\sebi9\Desktop\Nueva carpeta\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winAgregarJugador.baml
+C:\Users\sebi9\Desktop\Nueva carpeta\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winFinDelJuego.baml
+C:\Users\sebi9\Desktop\Nueva carpeta\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winMenuInicio.baml
+C:\Users\sebi9\Desktop\Nueva carpeta\ActiveBusiness\ActiveBusiness\obj\Debug\Ventanas\winNombreJugador.baml
+C:\Users\sebi9\Desktop\Nueva carpeta\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness.g.resources
+C:\Users\sebi9\Desktop\Nueva carpeta\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness.Properties.Resources.resources
+C:\Users\sebi9\Desktop\Nueva carpeta\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness.csproj.GenerateResource.cache
+C:\Users\sebi9\Desktop\Nueva carpeta\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness.csproj.CoreCompileInputs.cache
+C:\Users\sebi9\Desktop\Nueva carpeta\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness.exe
+C:\Users\sebi9\Desktop\Nueva carpeta\ActiveBusiness\ActiveBusiness\obj\Debug\ActiveBusiness.pdb

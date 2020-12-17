@@ -1,0 +1,49 @@
+﻿<Window x:Class="ActiveBusiness.Ventanas.winMenuInicio"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ActiveBusiness.Ventanas"
+        mc:Ignorable="d"
+        Title="winMenuInicio" Height="450" Width="800" WindowStyle="None" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Cursor="Hand" WindowState="Maximized">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/Imagenes/fondoInicio.png" Stretch="UniformToFill"></ImageBrush>
+        </Grid.Background>
+        <Button x:Name="btnIniciar" Content="Iniciar" HorizontalAlignment="Center" Margin="301,271,333,117" VerticalAlignment="Center" Width="166" Height="62" BorderBrush="#FF27A203" BorderThickness="5" Background="#FF5CEA0A" FontSize="22" FontFamily="Segoe UI Black" Foreground="#FF5F6166" AutomationProperties.IsOffscreenBehavior="Offscreen" RenderTransformOrigin="-0.142,0.475" Click="iniciarJuego">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="16"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <Button x:Name="btnSalir" Content="Salir" HorizontalAlignment="Center" Margin="301,356,333,32" VerticalAlignment="Center" Width="166" Height="62" BorderBrush="#FFCD4545" BorderThickness="5" Background="#FFF974E1" FontSize="22" FontFamily="Segoe UI Black" Foreground="#FF5F6166" Click="salirJuego">
+            <Button.Style>
+                <Style TargetType="{x:Type Button}">
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="{x:Type Button}">
+                                <Border x:Name="hover" Background="{TemplateBinding Background}">
+                                    <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                                </Border>
+                                <ControlTemplate.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter Property="Background" Value="#FFFF46FF" TargetName="hover" />
+                                    </Trigger>
+                                </ControlTemplate.Triggers>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </Button.Style>
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="16"/>
+                    <Setter Property="BorderBrush" Value="#FFCD4545"/>
+                    <Setter Property="BorderThickness" Value="5" />
+                </Style>
+            </Button.Resources>
+        </Button>
+
+    </Grid>
+</Window>
