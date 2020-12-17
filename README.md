@@ -1,2 +1,2 @@
 # ActiveBussines
-Videogame ActiveBussines Strategy and BattleRoyale
+Videogame ActiveBusiness Strategy and BattleRoyale
